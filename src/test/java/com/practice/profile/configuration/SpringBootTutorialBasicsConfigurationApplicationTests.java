@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.tutorial.basics.application.configuration;
+package com.practice.profile.configuration;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
